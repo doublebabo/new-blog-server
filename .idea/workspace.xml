@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf2522bc-609e-4f58-91d6-ce03fc534cad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo For Vue/vue-dev/.idea/vue-dev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo of Express/myapp/.idea/myapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo-of-webpack/.idea/Demo-of-webpack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoPeng/.idea/demoPeng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/new-blog-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/ArticleController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/daos/ArticleDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/daos/CategoryDao.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/models/Article.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/models/Category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repository/models/User.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/ArticleService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/CategoryService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/TagService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/UserService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../serve/.idea/serve.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../starter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../starter/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../starter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../starter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../starter/.idea/starter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../starter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../treeTable/.idea/treeTable.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-testing-platform/src/Layout/Layout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../automation-testing-platform/src/Layout/Layout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../automation-testing-platform/src/views/Login/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../automation-testing-platform/src/views/Login/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etc_app/lib/pages/etc_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../etc_app/lib/pages/etc_home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../etc_app/lib/pages/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../etc_app/lib/pages/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_etc/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_etc/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/react-app-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/src/routes/RouteWrapper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/routes/RouteWrapper.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/src/routes/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/src/views/home/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/views/home/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21oKV7l4vRIoLraVjwW2orw5dyw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.17.6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/repository/daos" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\01 CodeSpace\new-blog-server\src\repository\daos" />
+      <recent name="D:\01 CodeSpace\new-blog-server\src\repository\models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\01 CodeSpace\new-blog-server\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="node" type="NodeJSConfigurationType" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf2522bc-609e-4f58-91d6-ce03fc534cad" name="Default Changelist" comment="" />
+      <created>1638602020508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638602020508</updated>
+      <workItem from="1638602021675" duration="4363000" />
+      <workItem from="1638607246367" duration="2593000" />
+      <workItem from="1638610062902" duration="18697000" />
+      <workItem from="1638669597706" duration="15938000" />
+      <workItem from="1638790662964" duration="1098000" />
+      <workItem from="1639050611933" duration="3523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="93" key="#Project_Structure" timestamp="1638610705759">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="440" y="93" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1638610705759" />
+    <state x="552" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638680146389">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1638680146389" />
+    <state x="582" y="196" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1638602040552">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="582" y="196" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1638602040552" />
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1639050870072">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1639050870072" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1638719048287">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048287" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1638719048287">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048287" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1638719048287">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048287" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1638719048287">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048287" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="1877" height="352" key="GridCell.Tab.2.center" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.center/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="1877" height="352" key="GridCell.Tab.2.left" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.left/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="1877" height="352" key="GridCell.Tab.2.right" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.right/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="1877" height="352" key="GridCell.Tab.3.bottom" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="1877" height="352" key="GridCell.Tab.3.center" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.center/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="1877" height="352" key="GridCell.Tab.3.left" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.left/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="1877" height="352" key="GridCell.Tab.3.right" timestamp="1638719048288">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.right/0.0.1920.1032@0.0.1920.1032" timestamp="1638719048288" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1638614258543">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1032@0.0.1920.1032" timestamp="1638614258543" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1638621760281">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1032@0.0.1920.1032" timestamp="1638621760281" />
+    <state x="854" y="405" width="332" height="229" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1638625579494">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="854" y="405" width="332" height="229" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1032@0.0.1920.1032" timestamp="1638625579494" />
+    <state x="570" y="279" width="598" height="588" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1638629673520">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="570" y="279" width="598" height="588" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1638629673520" />
+    <state x="92" y="92" width="1736" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1638618541291">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="92" y="92" width="1736" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1638618541291" />
+    <state x="569" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1639055701116">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="569" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1639055701116" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1638624590451">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1638624590451" />
+  </component>
+</project>
