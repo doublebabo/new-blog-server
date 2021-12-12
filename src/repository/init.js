@@ -7,5 +7,4 @@ const sequelize = new Sequelize(config.db.name, config.db.username, config.db.ps
     logging: (...msg) => console.log(msg)
 });
 
-
 module.exports = {sequelize, DataTypes, Model, Op};

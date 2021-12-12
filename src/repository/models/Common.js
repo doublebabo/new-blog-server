@@ -1,9 +1,9 @@
 const {sequelize, DataTypes, Model} = require('../init');
 
-class User extends Model {
+class Common extends Model {
 }
 
-User.init({
+Common.init({
     id: {
         type: DataTypes.INTEGER,
         primaryKey: true
@@ -11,20 +11,14 @@ User.init({
     username: {
         type: DataTypes.STRING
     },
-    psd: {
+    message: {
         type: DataTypes.STRING
     },
-    email: {
+    ip: {
         type: DataTypes.STRING
     },
-    gender: {
+    likes: {
         type: DataTypes.INTEGER
-    },
-    mobile: {
-        type: DataTypes.STRING
-    },
-    avator: {
-        type: DataTypes.STRING
     },
     createTime: {
         type: DataTypes.STRING,
@@ -39,8 +33,8 @@ User.init({
     createdAt: 'create_time',
     updatedAt: 'update_time',
     sequelize,
-    tableName: 'user',
-    modelName: 'User',
+    tableName: 'global_comments',
+    modelName: 'Common',
 });
 
-module.exports = User;
+module.exports = Common;

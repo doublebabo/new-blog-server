@@ -20,20 +20,29 @@ Article.init({
     clicks: {
         type: DataTypes.INTEGER
     },
-    category_id : {
-        type: DataTypes.INTEGER
+    categoryId : {
+        type: DataTypes.INTEGER,
+        field: 'category_id'
     },
-    comment_counts: {
-        type: DataTypes.INTEGER
+    commentCounts: {
+        type: DataTypes.INTEGER,
+        field: 'comment_counts'
     },
     draft: {
         type: DataTypes.INTEGER
-    }
+    },
+    createTime: {
+        type: DataTypes.STRING,
+        field: 'create_time'
+    },
+    updateTime: {
+        type: DataTypes.STRING,
+        field: 'update_time'
+    },
 }, {
     timestamps: true,
     createdAt: 'create_time',
     updatedAt: 'update_time',
-
     sequelize,
     tableName: 'article',
     modelName: 'Article',

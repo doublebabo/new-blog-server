@@ -9,7 +9,7 @@ class ArticleServices {
         return articleDao.query(query)
     }
 
-    async getArticlesByCategory(query) {
+    getArticlesByCategory(query) {
         return articleDao.queryByCategory(query)
     }
 
@@ -31,10 +31,6 @@ class ArticleServices {
 
     async saveArticleAsDraft(params) {
         return await articleDao.saveArticleAsDraft(params);
-    }
-
-    updateArticle() {
-
     }
 }
 

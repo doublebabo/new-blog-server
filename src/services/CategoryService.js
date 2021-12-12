@@ -1,17 +1,9 @@
 const categoryDao = require('./../repository/daos/CategoryDao');
 
-class ArticleServices {
-    async publishArticle(params) {
-        return await articleDao.publishArticle(params);
-    }
+class CategoryService {
 
-    async saveArticleAsDraft(params) {
-        return await articleDao.saveArticleAsDraft(params);
-    }
-
-    updateArticle() {
-
+    getCategories() {
+        return categoryDao.query()
     }
 }
-
-module.exports = ArticleServices
+module.exports = CategoryService

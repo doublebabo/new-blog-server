@@ -11,18 +11,25 @@ Category.init({
     name: {
         type: DataTypes.STRING
     },
-    parent_id: {
-        type: DataTypes.INTEGER
+    parentId: {
+        type: DataTypes.INTEGER,
+        field: 'parent_id'
     },
     sort: {
         type: DataTypes.INTEGER
     },
-
+    createTime: {
+        type: DataTypes.STRING,
+        field: 'create_time'
+    },
+    updateTime: {
+        type: DataTypes.STRING,
+        field: 'update_time'
+    },
 }, {
     timestamps: true,
     createdAt: 'create_time',
     updatedAt: 'update_time',
-
     sequelize,
     tableName: 'category',
     modelName: 'Category',
