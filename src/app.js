@@ -9,15 +9,8 @@ const CommonService = require('./services/CommonService');
 
 const commonService =new CommonService();
 
-const jose = require('jose')
+const jwt = require('jsonwebtoken');
 
-// const jwt = await new jose.SignJWT({ 'urn:example:claim': true })
-//     .setProtectedHeader({ alg: 'ES256' })
-//     .setIssuedAt()
-//     .setIssuer('urn:example:issuer')
-//     .setAudience('urn:example:audience')
-//     .setExpirationTime('2h')
-    // .sign(privateKey)
 
 app.all('*', (req, res, next) => {
 
@@ -37,8 +30,13 @@ app.all('*', (req, res, next) => {
 
 app.post('/login',async function (req, res, next) {
     let body = req.body;
-    // console.log(await commonService.login(body))
-    res.send(await commonService.login(body))
+    const userInfo = await commonService.login(body);
+    if (userInfo === null) {
+
+    } else {
+        const token = jwt.sign({username: userInfo.username, id: userInfo.id}, 'batgggo', { expiresIn: '2h' });
+        res.send(token)
+    }
     next();
 })
 
