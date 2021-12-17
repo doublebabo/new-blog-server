@@ -14,6 +14,9 @@ Article.init({
     author: {
         type: DataTypes.STRING
     },
+    abstract: {
+        type: DataTypes.STRING
+    },
     content: {
         type: DataTypes.STRING
     },
