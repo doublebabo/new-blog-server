@@ -4,7 +4,7 @@ module.exports = {
     query: function (query = {}) {
         // {pagesize: ,pageindex页码: ,}
         // offset = (pageIndex - 1) * pagesize
-        const limit = query.pageSize || 10;
+        const limit = query.pageSize || 6;
         const offset = ((query.pageIndex || 1) - 1) * limit;
         let where = {
 
