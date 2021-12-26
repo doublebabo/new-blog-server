@@ -15,6 +15,7 @@ module.exports = {
             });
         } else {
             return Visitor.update({
+                location: params.location,
                 ip: params.ip
             },{
                 where: {

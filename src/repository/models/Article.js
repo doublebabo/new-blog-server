@@ -34,6 +34,9 @@ Article.init({
     draft: {
         type: DataTypes.INTEGER
     },
+    deleted: {
+        type: DataTypes.INTEGER
+    },
     createTime: {
         type: DataTypes.STRING,
         field: 'create_time'

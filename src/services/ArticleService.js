@@ -25,12 +25,24 @@ class ArticleServices {
 
     }
 
-    async publishArticle(params) {
-        return await articleDao.publishArticle(params);
+    publishArticle(params) {
+        return articleDao.publishArticle(params);
     }
 
-    async saveArticleAsDraft(params) {
-        return await articleDao.saveArticleAsDraft(params);
+    saveArticleAsDraft(params) {
+        return articleDao.saveArticleAsDraft(params);
+    }
+
+    updateArticleAndPublish(params) {
+        return articleDao.updateArticleAndPublish(params);
+    }
+
+    updateDraft(params) {
+        return articleDao.updateDraft(params);
+    }
+
+    deleteArticle(params) {
+        return articleDao.deleteArticle(params);
     }
 }
 
