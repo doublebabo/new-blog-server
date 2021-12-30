@@ -1,4 +1,4 @@
-FROM node:14.17.6-stretch-slim
+FROM node:14.17.6-alpine3.13 as build
 
 ENV NODE_ENV=production
 
