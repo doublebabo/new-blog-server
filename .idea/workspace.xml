@@ -15,8 +15,6 @@
       <change afterPath="$PROJECT_DIR$/../Demo of Express/myapp/.idea/myapp.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Demo-of-webpack/.idea/Demo-of-webpack.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demoPeng/.idea/demoPeng.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog-docker-compose.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-blog/nginx.conf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-blog/src/components/ChatingRoom/ChattingRoom.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-blog/src/components/ChatingRoom/ChattingRoom.tsx" afterDir="false" />
@@ -39,6 +37,7 @@
       <change beforePath="$PROJECT_DIR$/../etc_app/lib/pages/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../etc_app/lib/pages/login.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../flutter_etc/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_etc/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-blog/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/package.json" afterDir="false" />
@@ -105,6 +104,7 @@
       <recent name="D:\01 CodeSpace\new-blog-server\src\services" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\01 CodeSpace\new-blog-server" />
       <recent name="D:\01 CodeSpace\new-blog-server\src" />
     </key>
   </component>
@@ -146,7 +146,7 @@
       <workItem from="1640399908288" duration="956000" />
       <workItem from="1640486117416" duration="8435000" />
       <workItem from="1640784570833" duration="2472000" />
-      <workItem from="1640870853668" duration="5078000" />
+      <workItem from="1640870853668" duration="7167000" />
     </task>
     <servers />
   </component>
