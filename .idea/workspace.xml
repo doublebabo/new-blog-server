@@ -15,6 +15,8 @@
       <change afterPath="$PROJECT_DIR$/../Demo of Express/myapp/.idea/myapp.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Demo-of-webpack/.idea/Demo-of-webpack.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demoPeng/.idea/demoPeng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog-docker-compose.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-blog/nginx.conf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-blog/src/components/ChatingRoom/ChattingRoom.scss" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../new-blog/src/components/ChatingRoom/ChattingRoom.tsx" afterDir="false" />
@@ -37,7 +39,6 @@
       <change beforePath="$PROJECT_DIR$/../etc_app/lib/pages/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../etc_app/lib/pages/login.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../flutter_etc/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_etc/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-blog/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/package.json" afterDir="false" />
@@ -88,7 +89,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.17.6" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -97,13 +98,14 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\01 CodeSpace\new-blog-server\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\01 CodeSpace\new-blog-server\src" />
       <recent name="D:\01 CodeSpace\new-blog-server\src\repository\daos" />
       <recent name="D:\01 CodeSpace\new-blog-server\src\repository\models" />
       <recent name="D:\01 CodeSpace\new-blog-server\src\services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\01 CodeSpace\new-blog-server\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -144,7 +146,7 @@
       <workItem from="1640399908288" duration="956000" />
       <workItem from="1640486117416" duration="8435000" />
       <workItem from="1640784570833" duration="2472000" />
-      <workItem from="1640870853668" duration="600000" />
+      <workItem from="1640870853668" duration="5078000" />
     </task>
     <servers />
   </component>
