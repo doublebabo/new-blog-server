@@ -11,50 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf2522bc-609e-4f58-91d6-ce03fc534cad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Demo For Vue/vue-dev/.idea/vue-dev.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo of Express/myapp/.idea/myapp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Demo-of-webpack/.idea/Demo-of-webpack.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../demoPeng/.idea/demoPeng.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new-blog/nginx.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new-blog/src/components/ChatingRoom/ChattingRoom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new-blog/src/components/ChatingRoom/ChattingRoom.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new-blog/src/components/Footer/Footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new-blog/src/components/Footer/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new-blog/src/components/MySnackbars/MySnackbars.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new-blog/src/utils/socket.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../new-blog/src/utils/tools.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../serve/.idea/serve.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starter/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starter/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starter/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starter/.idea/starter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../starter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../treeTable/.idea/treeTable.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../automation-testing-platform/src/Layout/Layout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../automation-testing-platform/src/Layout/Layout.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../automation-testing-platform/src/views/Login/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../automation-testing-platform/src/views/Login/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../etc_app/lib/pages/etc_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../etc_app/lib/pages/etc_home.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../etc_app/lib/pages/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../etc_app/lib/pages/login.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flutter_etc/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_etc/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1771f946-05aa-494e-92b6-672bd0a22353.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/react-app-env.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/src/routes/RouteWrapper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/routes/RouteWrapper.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/src/routes/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/src/views/home/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/src/views/home/home.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new-blog/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/init.js" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,14 +51,14 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="javascript.nodejs.core.library.configured.version" value="14.17.6" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -107,6 +71,18 @@
       <recent name="D:\01 CodeSpace\new-blog-server" />
       <recent name="D:\01 CodeSpace\new-blog-server\src" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="node" type="NodeJSConfigurationType" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/src">
@@ -147,23 +123,25 @@
       <workItem from="1640486117416" duration="8435000" />
       <workItem from="1640784570833" duration="2472000" />
       <workItem from="1640870853668" duration="7167000" />
+      <workItem from="1641004199274" duration="2307000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="180" key="#Docker" timestamp="1640505462039">
