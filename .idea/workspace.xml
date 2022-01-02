@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf2522bc-609e-4f58-91d6-ce03fc534cad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +119,8 @@
       <workItem from="1640486117416" duration="8435000" />
       <workItem from="1640784570833" duration="2472000" />
       <workItem from="1640870853668" duration="7167000" />
-      <workItem from="1641004199274" duration="3827000" />
+      <workItem from="1641004199274" duration="5460000" />
+      <workItem from="1641045567729" duration="23000" />
     </task>
     <servers />
   </component>

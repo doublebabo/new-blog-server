@@ -1,9 +1,10 @@
 module.exports = {
     db: {
         name: 'blog',
-        host: process.env.NODE_ENV === 'production' ? '106.15.189.73:33060' : 'localhost',
+        host: 'localhost',
         dialect: 'mysql',
         username: 'root',
-        psd: 'admin#123'
+        psd: 'admin#123',
+        port: 3306
     }
 }
