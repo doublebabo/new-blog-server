@@ -8,7 +8,7 @@ var app = express();
 app.use(bodyParser.json());
 require('./socket');
 
-const upload = multer({dest: './imgs/'})
+const upload = multer({dest: path.join(__dirname, './imgs/')})
 const articleController = require('./controllers/ArticleController');
 const CommonService = require('./services/CommonService');
 const commonService = new CommonService();

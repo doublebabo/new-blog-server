@@ -11,17 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf2522bc-609e-4f58-91d6-ce03fc534cad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/ArticleController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/ArticleController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/daos/ArticleDao.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/daos/ArticleDao.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/repository/models/Article.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/repository/models/Article.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +132,7 @@
       <workItem from="1641134594893" duration="182000" />
       <workItem from="1641135110644" duration="429000" />
       <workItem from="1641137082833" duration="442000" />
-      <workItem from="1641172540499" duration="2947000" />
+      <workItem from="1641172540499" duration="3743000" />
     </task>
     <servers />
   </component>

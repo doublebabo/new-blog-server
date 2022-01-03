@@ -1,3 +1,4 @@
 .idea
 blog.sql
 docker-compose.yml
+src/imgs/*
