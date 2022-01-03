@@ -36,8 +36,12 @@
       <change beforePath="$PROJECT_DIR$/../etc_app/lib/pages/etc_home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../etc_app/lib/pages/etc_home.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../etc_app/lib/pages/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../etc_app/lib/pages/login.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../flutter_etc/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_etc/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1771f946-05aa-494e-92b6-672bd0a22353.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1771f946-05aa-494e-92b6-672bd0a22353.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-blog/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-blog/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-blog/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new-blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../new-blog/package.json" afterDir="false" />
@@ -70,6 +74,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="21oKV7l4vRIoLraVjwW2orw5dyw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -88,12 +95,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.17.6" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.17.6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Debugger" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
@@ -113,6 +121,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -146,12 +155,16 @@
       <workItem from="1640399908288" duration="956000" />
       <workItem from="1640486117416" duration="8435000" />
       <workItem from="1640784570833" duration="2472000" />
-      <workItem from="1640870853668" duration="7167000" />
+      <workItem from="1640870853668" duration="7793000" />
+      <workItem from="1641199052149" duration="22000" />
+      <workItem from="1641199801609" duration="119000" />
+      <workItem from="1641199929302" duration="46000" />
+      <workItem from="1641199997193" duration="1183000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -163,152 +176,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1032" y="180" key="#Docker" timestamp="1640505462039">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="1032" y="180" key="#Docker/0.0.1920.1032@0.0.1920.1032" timestamp="1640505462039" />
-    <state x="1143" y="104" key="#Dockerfile" timestamp="1640505464522">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="1143" y="104" key="#Dockerfile/0.0.1920.1032@0.0.1920.1032" timestamp="1640505464522" />
-    <state x="440" y="93" key="#Project_Structure" timestamp="1638610705759">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="440" y="93" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1638610705759" />
-    <state x="552" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1638680146389">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="552" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1638680146389" />
-    <state x="609" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1640525639768">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="609" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1640525639768" />
-    <state x="582" y="196" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1638602040552">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="582" y="196" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1638602040552" />
-    <state x="715" y="223" key="#xdebugger.evaluate" timestamp="1639893453691">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="715" y="223" key="#xdebugger.evaluate/0.0.1920.1032@0.0.1920.1032" timestamp="1639893453691" />
-    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1639893405028">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1639893405028" />
-    <state width="1877" height="501" key="GridCell.Tab.0.bottom" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.0.center" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.0.left" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.0.right" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.1.bottom" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.1.center" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.1.left" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.1.right" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.2.bottom" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.2.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.2.center" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.2.center/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.2.left" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.2.left/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.2.right" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.2.right/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.3.bottom" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.3.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.3.center" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.3.center/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.3.left" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.3.left/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="1877" height="501" key="GridCell.Tab.3.right" timestamp="1640785026570">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="1877" height="501" key="GridCell.Tab.3.right/0.0.1920.1032@0.0.1920.1032" timestamp="1640785026570" />
-    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1638614258543">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1032@0.0.1920.1032" timestamp="1638614258543" />
-    <state x="616" y="141" key="SettingsEditor" timestamp="1639893617896">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="616" y="141" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1639893617896" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1639670585184">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1032@0.0.1920.1032" timestamp="1639670585184" />
-    <state x="854" y="405" width="332" height="229" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1638625579494">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="854" y="405" width="332" height="229" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1032@0.0.1920.1032" timestamp="1638625579494" />
-    <state x="570" y="279" width="598" height="588" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1638629673520">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="570" y="279" width="598" height="588" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1638629673520" />
-    <state x="92" y="92" width="1736" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1638618541291">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="92" y="92" width="1736" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1638618541291" />
-    <state x="569" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1640011364968">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="569" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1640011364968" />
-    <state x="507" y="247" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1639311990403">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="507" y="247" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1032@0.0.1920.1032" timestamp="1639311990403" />
-    <state x="664" y="237" width="592" height="558" key="find.popup" timestamp="1640011456667">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="664" y="237" width="592" height="558" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1640011456667" />
-    <state x="334" y="131" key="new project wizard" timestamp="1639666961959">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="334" y="131" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1639666961959" />
-    <state x="616" y="238" key="run.anything.popup" timestamp="1639210957784">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="616" y="238" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1639210957784" />
-    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1639401368337">
-      <screen x="0" y="0" width="1920" height="1032" />
-    </state>
-    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1639401368337" />
   </component>
 </project>
