@@ -1,2 +1,3 @@
-blog-docker-compose.yaml
 .idea
+blog.sql
+docker-compose.yml

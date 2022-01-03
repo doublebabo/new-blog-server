@@ -28,8 +28,6 @@ app.all('*', (req, res, next) => {
 });
 
 
-
-
 app.all('/actions/*', function (req, res, next) {
     const token = req.headers.authorization || '';
     if (!token) res.send(ResponseTool.no('', '请登录', '300'))
@@ -39,10 +37,10 @@ app.all('/actions/*', function (req, res, next) {
     } catch (err) {
         res.send(ResponseTool.no('', '请登录', '300'))
     }
-})
+});
 app.get('/test', async function (req, res, next) {
     res.send("hello docker")
-})
+});
 
 app.post('/login', async function (req, res, next) {
     let body = req.body;
@@ -53,7 +51,7 @@ app.post('/login', async function (req, res, next) {
         const token = jwt.sign({username: userInfo.username, id: userInfo.id}, 'batgggo', {expiresIn: '24h'});
         res.send(ResponseTool.yes({t: token, u: userInfo.username, i: userInfo.id}, 'Login Successfully'))
     }
-})
+});
 
 app.post('/logout', async function (req, res, next) {
     let body = req.body;
@@ -65,26 +63,28 @@ app.post('/logout', async function (req, res, next) {
         const token = jwt.sign({username: userInfo.username, id: userInfo.id}, 'batgggo', {expiresIn: '2h'});
         res.send(ResponseTool.yes(token, 'Login Successfully'))
     }
-})
+});
 
 
 app.get('/image-store/*', async function (req, res, next) {
     const imgid = req.params[0];
+    console.log('========/image-store/'+imgid);
     const file = path.join(__dirname, './imgs/' + imgid);
     res.download(file);
-})
+});
 
 app.post('/actions/uploadImage', upload.single('image'), async function (req, res, next) {
     let file = req.file;
     if (file.size > 1.5 * 1024 * 1024) {
         res.send(ResponseTool.no('', '图片不能大于1.5M'));
     } else {
+        console.log('======= /actions/uploadImage, filename=' + file.filename);
         res.send(ResponseTool.yes(file.filename, '图片上传成功'));
     }
-})
+});
 
 app.use(articleController);
 
 app.listen(8000, function () {
     console.log('express Ready')
-})
+});

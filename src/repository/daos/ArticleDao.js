@@ -59,6 +59,7 @@ module.exports = {
             categoryId: params.categoryId || 0,
             clicks: 1,
             draft: 1,
+            deleted: 0
         });
     },
 
@@ -86,6 +87,7 @@ module.exports = {
             abstract: params.abstract,
             categoryId: params.categoryId || 0,
             draft: 0,
+            deleted: 0
         }, {
             where: {
                 id : params.id
@@ -102,6 +104,7 @@ module.exports = {
             categoryId: params.categoryId || 0,
             clicks: 1,
             draft: 0,
+            deleted: 0
         });
     },
 

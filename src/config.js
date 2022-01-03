@@ -5,6 +5,5 @@ module.exports = {
         dialect: 'mysql',
         username: 'root',
         psd: 'admin#123',
-        port: 3306
     }
-}
+};
