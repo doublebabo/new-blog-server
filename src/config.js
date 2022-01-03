@@ -4,6 +4,6 @@ module.exports = {
         host: 'localhost',
         dialect: 'mysql',
         username: 'root',
-        psd: 'admin#123'
+        psd: 'admin#123',
     }
-}
+};

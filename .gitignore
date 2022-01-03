@@ -1,3 +1,5 @@
 blog-docker-compose.yaml
 /.idea/*
 node_modules/*
+blog.sql
+src/imgs/*
