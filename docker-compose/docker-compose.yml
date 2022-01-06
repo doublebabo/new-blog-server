@@ -1,0 +1,44 @@
+version: '3.8'
+services:
+  ## start frontend with nginx
+  frontend:
+    image: blue143666/new-blog:latest
+    #    build: ./new-blog
+    volumes:
+      - /etc/letsencrypt/live/www.qixiaogu.top/fullchain.pem:/etc/fullchain.pem
+      - /etc/letsencrypt/live/www.qixiaogu.top/privkey.pem:/etc/privkey.pem
+    ports:
+      - 80:80
+  ## start mysql
+  db:
+    image: mysql:8.0.27
+    volumes:
+      #      - dbdata:/var/lib/mysql:rw
+      #      - ./blog.sql:/docker-entrypoint-initdb.d/blog.sql:ro
+      - /home/usr/db/mysql/data:/var/lib/mysql:rw
+      - /home/usr/db/mysql/init:/docker-entrypoint-initdb.d/:ro
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: admin#123
+      MYSQL_DATABASE: blog
+      MYSQL_ROOT_HOST: '%'
+    ports:
+      - 33060:3306
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
+  ## start backend service
+  backend:
+    image: blue143666/new-blog-server:latest
+    #    build: ./new-blog-server
+    volumes:
+      - static-imgs:/app/src/imgs
+    ports:
+      - 8000:8000
+      - 4000:4000
+volumes:
+  static-imgs: {}

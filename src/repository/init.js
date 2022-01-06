@@ -7,7 +7,7 @@ const sequelize = new Sequelize(config.db.name, config.db.username, config.db.ps
     dialect: config.db.dialect,
     // logging: (...msg) => console.log(m≤sg)
     logging: console.log,
-    port: process.env.NODE_ENV === 'production' ? 3306 : 33060,
+    port: process.env.NODE_ENV === 'production' ? 3306 : 3306,
 });
 
 module.exports = {sequelize, DataTypes, Model, Op};

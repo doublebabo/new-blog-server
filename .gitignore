@@ -3,3 +3,4 @@ blog-docker-compose.yaml
 node_modules/*
 blog.sql
 src/imgs/*
+docker-compose/*
