@@ -1,4 +1,7 @@
-.idea/*
-blog.sql
 docker-compose.yml
+/.idea/*
+node_modules/*
+blog.sql
 src/imgs/*
+docker-compose/*
+.DS_Store

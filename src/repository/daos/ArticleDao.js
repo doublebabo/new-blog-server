@@ -46,7 +46,9 @@ module.exports = {
             },
         });
         a.clicks++;
-        a.save();
+        a.save({
+            silent: true
+        });
         return a;
     },
 
